@@ -4,7 +4,7 @@
 
 關於 TensorFlow Lite library
 --
-此部份沒有安裝腳本，，如果有需要使用TensorFlowLiteAPI，需要進行手動操作安裝，可參考[Python quickstart - Install just the TensorFlow Lite interpreter](https://www.tensorflow.org/lite/guide/python#install_just_the_tensorflow_lite_interpreter) <br/>
+此部份沒有安裝腳本，如果有需要使用TensorFlowLiteAPI，需要進行手動操作安裝，可參考[Python quickstart - Install just the TensorFlow Lite interpreter](https://www.tensorflow.org/lite/guide/python#install_just_the_tensorflow_lite_interpreter) <br/>
 
 執行流程
 --
